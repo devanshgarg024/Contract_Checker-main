@@ -45,7 +45,7 @@ Follow these instructions to set up and run the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/deepakkumartripathi119/Contract_Checker-main.git
+git clone https://github.com/devanshgarg024/Contract_Checker-main.git
 cd Contract_Checker-main
 ```
 
